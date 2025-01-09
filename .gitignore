@@ -4,3 +4,6 @@
 Manifest.toml
 *.DS_Store
 *.pras
+
+docs/build/
+docs/site/
